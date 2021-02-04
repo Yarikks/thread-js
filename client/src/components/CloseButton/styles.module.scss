@@ -1,0 +1,11 @@
+.close {
+    position: absolute;
+    right: 15px;
+    background-color: transparent;
+    border:transparent;
+    outline: none;
+
+    &:hover {
+        color: blue;
+    }
+}
